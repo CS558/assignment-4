@@ -10,6 +10,13 @@ Author: Daniel Melanz
 
 The region quadtree represents a partition of space in two dimensions by decomposing the region into four equal quadrants, subquadrants, and so on with each leaf node containing data corresponding to a specific subregion.
 
+### [`pint-polygon-distance`] (https://github.com/hanasarbortova/point-polygon-distance)
+
+Author: Hana Sarbortova
+
+Compute distance of a point from an arbitrary shaped polygon (either perpendicular
+distance from a line segment (if projection exists) or distance from the nearest vertex)
+
 # Ideas
 
 * Robust point in polygon tests using exact arithmetic
