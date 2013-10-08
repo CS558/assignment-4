@@ -10,7 +10,7 @@ Author: Daniel Melanz
 
 The region quadtree represents a partition of space in two dimensions by decomposing the region into four equal quadrants, subquadrants, and so on with each leaf node containing data corresponding to a specific subregion.
 
-### [`pint-polygon-distance`] (https://github.com/hanasarbortova/point-polygon-distance)
+### [`point-polygon-distance`] (https://github.com/hanasarbortova/point-polygon-distance)
 
 Author: Hana Sarbortova
 
