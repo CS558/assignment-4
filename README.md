@@ -17,6 +17,12 @@ Author: Hana Sarbortova
 Compute distance of a point from an arbitrary shaped polygon (either perpendicular
 distance from a line segment (if projection exists) or distance from the nearest vertex)
 
+### Box Overlaps
+
+Author: Michael Doescher
+
+Report all box overlaps using a sweep-line algorithm.
+
 # Ideas
 
 * Robust point in polygon tests using exact arithmetic
