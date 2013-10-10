@@ -23,7 +23,7 @@ Author: Michael Doescher
 
 Report all box overlaps using a sweep-line algorithm.
 
-### Line Intersection
+### [`Line Intersection`] (https://github.com/ychu8/sweep-line-intersection)
 
 Author: Yung-Hsien Chu
 
