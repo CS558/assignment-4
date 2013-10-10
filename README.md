@@ -23,6 +23,12 @@ Author: Michael Doescher
 
 Report all box overlaps using a sweep-line algorithm.
 
+### [`Line Intersection`] (https://github.com/ychu8/sweep-line-intersection)
+
+Author: Yung-Hsien Chu
+
+Find line intersections using sweep line test, return points of the intersections.
+
 # Ideas
 
 * Robust point in polygon tests using exact arithmetic
