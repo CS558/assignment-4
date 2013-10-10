@@ -27,7 +27,7 @@ Report all box overlaps using a sweep-line algorithm.
 
 Author: Yung-Hsien Chu
 
-Find line intersections using sweet line test, return points of the intersections.
+Find line intersections using sweep line test, return points of the intersections.
 
 # Ideas
 
