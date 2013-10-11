@@ -29,6 +29,12 @@ Author: Yung-Hsien Chu
 
 Find line intersections using sweep line test, return points of the intersections.
 
+### Point in Polygon
+
+Author: Richard Gaggioli
+
+
+
 # Ideas
 
 * Robust point in polygon tests using exact arithmetic
