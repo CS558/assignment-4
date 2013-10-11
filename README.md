@@ -29,11 +29,11 @@ Author: Yung-Hsien Chu
 
 Find line intersections using sweep line test, return points of the intersections.
 
-### Point in Polygon
+### [`Point in Polygon`] (https://github.com/rpgaggioli/pointInPolygon)
 
 Author: Richard Gaggioli
 
-
+Checks if a point is within a polygon.
 
 # Ideas
 
