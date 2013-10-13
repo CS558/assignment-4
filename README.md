@@ -17,7 +17,7 @@ Author: Hana Sarbortova
 Compute distance of a point from an arbitrary shaped polygon (either perpendicular
 distance from a line segment (if projection exists) or distance from the nearest vertex)
 
-### Box Overlaps
+### ['Box Overlaps'] (https://github.com/mdoescher/BoxOverlap/)
 
 Author: Michael Doescher
 
